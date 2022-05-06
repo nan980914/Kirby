@@ -1,6 +1,6 @@
 import { defineConfig } from 'dumi';
 
-const repo = 'dumi-template';
+const repo = 'Kirby';
 
 export default defineConfig({
   title: repo,
