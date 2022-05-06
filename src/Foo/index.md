@@ -10,7 +10,8 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Foo } from 'dumi-template';
+//@ts-ignore
+import { Foo } from 'Kirby';
 
 export default () => <Foo title="First Demo" />;
 ```
